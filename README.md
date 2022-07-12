@@ -9,7 +9,7 @@ Narcissus91/Narcissus91 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 # Technical Communication Resources
-Here Technical Communication includes but not limited to Technical Writing, Content Developing, and Technical Tranlation. <br>All information below is for reference and For learning and communication only, not for commercial use.
+Here Technical Communication includes but not limited to Technical Writing, Content Developing, and Technical Tranlation. <br>All reference information below is for learning and communication only, not for commercial use.
 ## Style Guides
 #### Microsoft
 [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
